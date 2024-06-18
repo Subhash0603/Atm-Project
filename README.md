@@ -12,14 +12,3 @@ This repository contains a simple ATM simulation program written in Java. The pr
 ## Requirements
 
 - Java Development Kit (JDK) installed on your system.
-
-## File Structure
-├── ATM.java
-└── Main.java
-Usage
-When prompted, enter your PIN. The default PIN is 5674.
-Choose from the following options:
-Check account balance
-Withdraw money
-Deposit money
-Exit
